@@ -15,7 +15,7 @@ java -version
 ```
 ![image](https://user-images.githubusercontent.com/91153605/136288905-03a9d42a-3174-4b0a-856f-880438dcf5b8.png)
 
-### 2. Ahora instalaremos el paquete snap de intellij:
+### 2. Ahora instalaremos el paquete snap de NetBeans:
 
 ```bash 
 sudo snap install netbeans --classic
